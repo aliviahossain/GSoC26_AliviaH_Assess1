@@ -1,0 +1,6 @@
+data/
+small_data/
+deeplense_env/
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
